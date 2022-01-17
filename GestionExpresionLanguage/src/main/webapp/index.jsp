@@ -7,7 +7,7 @@
     <body>
         <h1>Trabajando con Expresion Language</h1>
         <br/>
-        <a href="variablesImplicitas.jsp?usuario=JuanLuis">
+        <a href="variablesImplicitas.jsp?usuario=Juan Luis">
             Ejemplo de Expresion Language con variables implicitas
         </a>
     </body>
